@@ -1,0 +1,12 @@
+{
+  "keys": {
+    "Trial24h": {
+      "active": true,
+      "user": "UsuarioExemplo"
+    },
+    "CHAVE-EXPIRADA": {
+      "active": false,
+      "user": "OutroUsuario"
+    }
+  }
+}
